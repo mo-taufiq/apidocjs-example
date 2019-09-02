@@ -1,2 +1,2 @@
 # apidocjs-example
-example at directory router/general.js
+example at directory routers/general.js
