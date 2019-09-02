@@ -1,0 +1,17 @@
+{
+  "name": "lionparcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[C",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "apidoc": "apidoc -f \".*\\.js$\" -e node_modules -o apidoc/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
